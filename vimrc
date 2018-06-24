@@ -1,1 +1,3 @@
+filetype on
 syntax on
+
